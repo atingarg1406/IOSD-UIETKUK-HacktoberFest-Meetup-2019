@@ -20,6 +20,7 @@ There are 4 types of problems in this repo
   <li>Fibanocci Sequence</li>
   <li>Check Whether Input String is Palindrome or Not</li>
   <li>Print the elements of array using Pointers</li>
+  <li>Concatenate two strings</li>
 </ul>
 
 ### Intermediate
